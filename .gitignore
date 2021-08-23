@@ -1,0 +1,5 @@
+﻿.settings
+m1-lesson1/target
+*.project
+*.classpath
+*/target
